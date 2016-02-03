@@ -1,5 +1,8 @@
 Toroidal k-means by Simon Wilshin, Jan 2016
 
+This work was completed with support from the Royal Veterinary College, 
+London (www.rvc.ac.uk).
+
 So I frequently work with variables where 0 and 100% are the same thing (if 
 you are 100% of the way through a cycle that is identical to being 0% through 
 the next cycle). These variables are on a torus, and I sometimes need to 
